@@ -7,6 +7,9 @@ The repository includes:
 - **Text Analysis**: Frequency analysis of keywords from academic guidelines, broken down by continent.
 - **Network Graphs**: Visualizations of relationships between major keywords for academic guidelines, categorized by five types.
 
+<img width="491" alt="Global Representation" src="https://github.com/user-attachments/assets/839b915b-0f38-4d87-b791-7bcaa4b090d2">
+
+
 This project supports Natural Language Processing (NLP) tasks like model synthesis, ambiguity detection, and requirements engineering.
 
 ## **Repository Structure**
