@@ -3,9 +3,13 @@
 ## **Project Overview**
 This repository contains the data, code, and results associated with the **AGGA (Academic Guidelines for Generative AIs)** project, which analyzes 80 academic guidelines related to Generative AI (GAI) and Large Language Models (LLMs) from institutions across six continents. This study aims to provide insight into how universities around the globe are adapting to and regulating the use of GAI tools like ChatGPT in academic settings.
 
+<img width="417" alt="image" src="https://github.com/user-attachments/assets/9c31fd90-6f68-4f39-af3e-35c80a5a43bf">
+
+
 The repository includes:
 - **Text Analysis**: Frequency analysis of keywords from academic guidelines, broken down by continent.
 - **Network Graphs**: Visualizations of relationships between major keywords for academic guidelines, categorized by five types.
+
 
 <img width="491" alt="Global Representation" src="https://github.com/user-attachments/assets/839b915b-0f38-4d87-b791-7bcaa4b090d2">
 
