@@ -1,5 +1,8 @@
 # **Navigating Academic Standards with AGGA: A Dataset of Academic Guidelines for Generative AI and Large Language Models**
 
+![GitHub stars](https://img.shields.io/github/stars/Salehafroogh/AGGA_Notebook?style=social)
+
+
 ## **Project Overview**
 This repository contains the data, code, and results associated with the **AGGA (Academic Guidelines for Generative AIs)** project, which analyzes 80 academic guidelines related to Generative AI (GAI) and Large Language Models (LLMs) from institutions across six continents. This study aims to provide insight into how universities around the globe are adapting to and regulating the use of GAI tools like ChatGPT in academic settings.
 
