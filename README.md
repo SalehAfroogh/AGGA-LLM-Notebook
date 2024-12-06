@@ -1,5 +1,7 @@
 # **Navigating Academic Standards with AGGA: A Dataset of Academic Guidelines for Generative AI and Large Language Models**
 
+![image](https://github.com/user-attachments/assets/3a02df7e-87c1-489a-9b0b-4aa2257ffa38)
+
 
 ![GitHub stars](https://img.shields.io/github/stars/Salehafroogh/AGGA_Notebook?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Salehafroogh/AGGA_Notebook?style=social)
