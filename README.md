@@ -134,7 +134,9 @@ If you use this dataset or code in your research, please cite the following pape
 Jiao, Junfeng; Afroogh, Saleh; Chen, Kevin; Atkinson, David; Dhurandhar, Amit, 2024, 'AGGA: A Dataset of Academic Guidelines for Generative AIs', Harvard Dataverse, V4. DOI:10.7910/DVN/XZZHA5.
 
 
-## **Contact**
-For any questions or inquiries, feel free to contact the corresponding author:
-- **Saleh Afroogh** (saleh.afroogh@utexas.edu)
+<strong>Contributors</strong>
+
+Kevin Chen,
+Saleh Afroogh (Lead Researcher)
+For questions, feedback, or collaborations, contact me at saleh.afroogh@utexas.edu.
 
